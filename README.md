@@ -1,1 +1,1 @@
-# SingletonDemo
+# DesignPatternsDemos
